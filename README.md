@@ -1,8 +1,8 @@
 ## File Manager
 
-**Author:** >Andrea Mele
+**Author:** Andrea Mele
 
-**E-mail:** >andme44@gmial.com
+**E-mail:** andme44@gmial.com
 
 **Websites:**
 > http://www.github.com/AndreaMele
