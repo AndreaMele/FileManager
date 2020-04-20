@@ -19,7 +19,7 @@
 - [x] Sort directories.
 - [x] List direcotires.
 
-#### :: To-do for this project
+#### :: To Do
 - [x] Functioning menu.
 - [x] Adequate functions.
 - [x]  Make use of files to save the data.
