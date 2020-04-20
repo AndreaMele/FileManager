@@ -1,8 +1,15 @@
-# Author: Andrea Mele
-# E-mail: andme44@gmial.com
-# Website: http://www.github.com/AndreaMele
-# Website: http://www.artstation.com/AndreaMee
-# Project: File Manager
+## Project: File Manager
+
+### Author:
+Andrea Mele
+
+### E-mail:
+andme44@gmial.com
+
+### Websites:
+http://www.github.com/AndreaMele
+http://www.artstation.com/AndreaMele
+
 
 * A console based file manager. *
 
