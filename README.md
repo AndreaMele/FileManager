@@ -1,36 +1,33 @@
-## Project: File Manager
+## File Manager
 
-### Author:
-Andrea Mele
+**Author:** >Andrea Mele
 
-### E-mail:
-andme44@gmial.com
+**E-mail:** >andme44@gmial.com
 
-### Websites:
-http://www.github.com/AndreaMele
-http://www.artstation.com/AndreaMele
+**Websites:**
+> http://www.github.com/AndreaMele
+                    
+> http://www.artstation.com/AndreaMele
 
+![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
 * A console based file manager. *
 
 #### :: Filemanager Features
-```
-    √ - Create folders and subfolders.
-    √ - Copy and move files to the newly created directories.
-    √ - Sort directories.
-    √ - List direcotires.
-```
+- [x] Create folders and subfolders.
+- [x] Copy and move files to the newly created directories.
+- [x] Sort directories.
+- [x] List direcotires.
+
 #### :: To-do for this project
-```
-    √ - 1. Functioning menu.
-    √ - 2. Adequate functions.
-    √ - 3. Make use of files to save the data.
-    √ - 4. Handle adequate exceptions.
-    √ - 5. Display information formatted adequately.
-    √ - 6. Make use of lists or dictionaries as appropriate.
-    √ - 7. Adequate naming conventions for variables and functions.
-    √ - 8. Use an object-oriented approach.
-    √ - 9. Project should use a database.
-    √ - 10. Comments as appropriate.
-    x - 11. GUI platform
-```
+- [x] Functioning menu.
+- [x] Adequate functions.
+- [x]  Make use of files to save the data.
+- [x] Handle adequate exceptions.
+- [x] Display information formatted adequately.
+- [x] Make use of lists or dictionaries as appropriate.
+- [x] Adequate naming conventions for variables and functions.
+- [x] Use an object-oriented approach.
+- [x] Project should use a database.
+- [x] Comments as appropriate.
+- [] GUI platform
