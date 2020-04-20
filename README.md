@@ -30,4 +30,4 @@
 - [x] Use an object-oriented approach.
 - [x] Project should use a database.
 - [x] Comments as appropriate.
-- [] GUI platform
+- [ ] GUI platform
