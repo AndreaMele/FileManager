@@ -9,7 +9,9 @@
 
 > http://www.artstation.com/AndreaMele
 
-* A console based file manager. *
+
+*A console based file manager.*
+
 
 #### :: Filemanager Features
 - [x] Create folders and subfolders.
